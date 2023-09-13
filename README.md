@@ -28,5 +28,6 @@ Here you will find a summary of my work and projects throughout the different co
 - [Databases II](https://github.com/marcor0311/Databases-II)
 - [Software Requirements](https://github.com/marcor0311/Software-Requirements)
 
-Feel free to ask any questions :)
+Feel free to ask any questions
+
 Telegram @marcor0411
