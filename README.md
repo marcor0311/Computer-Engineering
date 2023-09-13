@@ -1,6 +1,6 @@
 # Computer-Engineering
 
-Here, you'll find a summar de mis trabajos y proyectos a lo largo de los diferentes cursos de la carrera
+Here you will find a summary of my work and projects throughout the different courses of the career.
 
 ## Libraries Included
 
@@ -11,7 +11,7 @@ Here, you'll find a summar de mis trabajos y proyectos a lo largo de los diferen
 
 ## Semester I 2022
 
--
+- [Introduction to Programming and Workshop](https://github.com/marcor0311/Introduction-to-Programming-and-Workshop)
 
 ## Semester II 2022
 
