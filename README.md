@@ -31,9 +31,9 @@ Here you will find a summary of my work and projects throughout the different co
 
 ## Semester I 2024 (this will be public once the semester ends :) )
 
-- [Project-Management](https://github.com/marcor0311/Project-Management)
-- [Compilers-and-Interpreters](https://github.com/marcor0311/Compilers-and-Interpreters)
-- [Software-Design](https://github.com/marcor0311/Software-Design)
+- [Project Management](https://github.com/marcor0311/Project-Management)
+- [Compilers and Interpreters](https://github.com/marcor0311/Compilers-and-Interpreters)
+- [Software Design](https://github.com/marcor0311/Software-Design)
 - [Elective I](https://github.com/marcor0311/Elective-I)
 
 
