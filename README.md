@@ -22,11 +22,19 @@ Here you will find a summary of my work and projects throughout the different co
 - [Analysis of Algorithms](https://github.com/marcor0311/Analysis-of-Algorithms)
 - [Databases I](https://github.com/marcor0311/Databases-I)
 
-## Semester II 2023 (this will be public once the semester ends :) )
+## Semester II 2023
 
 - [Programming Languages](https://github.com/marcor0311/Programming-Languages)
 - [Databases II](https://github.com/marcor0311/Databases-II)
 - [Software Requirements](https://github.com/marcor0311/Software-Requirements)
+
+## Semester I 2024 (this will be public once the semester ends :) )
+
+- [Project-Management](https://github.com/marcor0311/Project-Management)
+- [Compilers-and-Interpreters](https://github.com/marcor0311/Compilers-and-Interpreters)
+- [Software-Design](https://github.com/marcor0311/Software-Design)
+- [Elective I](https://github.com/marcor0311/Elective-I)
+
 
 Feel free to ask any questions
 
