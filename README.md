@@ -6,6 +6,7 @@ Here you will find a summary of my work and projects throughout the different co
 2. [Semester II 2022](#Semester-II-2022)
 3. [Semester I 2023](#Semester-I-2023)
 4. [Semester II 2023](#Semester-II-2023)
+5. [Semester I 2024](#Semester-I-2024)
 
 ## Semester I 2022
 
