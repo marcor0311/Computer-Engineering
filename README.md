@@ -32,9 +32,9 @@ Here you will find a summary of my work and projects throughout the different co
 ## Semester I 2024 (this will be public once the semester ends :) )
 
 - [Project Management](https://github.com/marcor0311/Project-Management)
-- [Compilers and Interpreters](https://github.com/marcor0311/Compilers-and-Interpreters)
+- [Computing and Society](https://github.com/marcor0311/Computing-and-Society)
 - [Software Design](https://github.com/marcor0311/Software-Design)
-- [Elective I](https://github.com/marcor0311/Elective-I)
+- [Introduction to Virtual Reality](https://github.com/marcor0311/Introduction-to-Virtual-Reality)
 
 
 Feel free to ask any questions
