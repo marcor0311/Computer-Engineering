@@ -38,7 +38,7 @@ Here you will find a summary of my work and projects throughout the different co
 - [Software Design](https://github.com/marcor0311/Software-Design)
 - [Introduction to Virtual Reality](https://github.com/marcor0311/Introduction-to-Virtual-Reality)
 
-## Semester II 2024
+## Semester II 2024 (Pending upload on some courses)
 
 - [Entrepreneurship Development](https://github.com/marcor0311/Entrepreneurship-Development)
 - [Compilers and Interpreters](https://github.com/marcor0311/Compilers-and-Interpreters)
