@@ -50,4 +50,5 @@ Here you will find a summary of my work and projects throughout the different co
 Feel free to ask any questions
 
 Telegram @marcor0411
+
 Email marco.rodriguezdev@gmail.com
