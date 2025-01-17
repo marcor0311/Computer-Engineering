@@ -7,6 +7,8 @@ Here you will find a summary of my work and projects throughout the different co
 3. [Semester I 2023](#Semester-I-2023)
 4. [Semester II 2023](#Semester-II-2023)
 5. [Semester I 2024](#Semester-I-2024)
+6. [Semester II 2024](#Semester-II-2024)
+
 
 ## Semester I 2022
 
@@ -29,14 +31,23 @@ Here you will find a summary of my work and projects throughout the different co
 - [Databases II](https://github.com/marcor0311/Databases-II)
 - [Software Requirements](https://github.com/marcor0311/Software-Requirements)
 
-## Semester I 2024 (this will be public once the semester ends :) )
+## Semester I 2024
 
 - [Project Management](https://github.com/marcor0311/Project-Management)
 - [Computing and Society](https://github.com/marcor0311/Computing-and-Society)
 - [Software Design](https://github.com/marcor0311/Software-Design)
 - [Introduction to Virtual Reality](https://github.com/marcor0311/Introduction-to-Virtual-Reality)
 
+## Semester II 2024
+
+- [Entrepreneurship Development](https://github.com/marcor0311/Entrepreneurship-Development)
+- [Compilers and Interpreters](https://github.com/marcor0311/Compilers-and-Interpreters)
+- [Operations Research](https://github.com/marcor0311/Operations-Research)
+- [Software Quality Assurance](https://github.com/marcor0311/Software-Quality-Assurance)
+- [Innovation and Creativity](https://github.com/marcor0311/Innovation-and-Creativity)
+
 
 Feel free to ask any questions
 
 Telegram @marcor0411
+Email marco.rodriguezdev@gmail.com
