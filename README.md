@@ -46,6 +46,10 @@ Here you will find a summary of my work and projects throughout the different co
 - [Software Quality Assurance](https://github.com/marcor0311/Software-Quality-Assurance)
 - [Innovation and Creativity](https://github.com/marcor0311/Innovation-and-Creativity)
 
+## LeetCode Solutions
+
+Besides my courses, I also have a repository dedicated to solving LeetCode problems. You can find my solutions here: 
+- [LeetCode Solutions](https://github.com/marcor0311/LeetCode)
 
 Feel free to ask any questions
 
