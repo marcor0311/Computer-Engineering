@@ -36,7 +36,7 @@ Here you will find a summary of my work and projects throughout the different co
 - [Project Management](https://github.com/marcor0311/Project-Management)
 - [Computing and Society](https://github.com/marcor0311/Computing-and-Society)
 - [Software Design](https://github.com/marcor0311/Software-Design)
-- [Introduction to Virtual Reality (Pending)](https://github.com/marcor0311/VRremote)
+- [Introduction to Virtual Reality](https://github.com/marcor0311/VRremote)
 
 ## Semester II 2024 (Pending upload on some courses)
 
