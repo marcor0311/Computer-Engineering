@@ -40,7 +40,6 @@ Here you will find a summary of my work and projects throughout the different co
 
 ## Semester II 2024 (Pending upload on some courses)
 
-- [Entrepreneurship Development](https://github.com/marcor0311/Entrepreneurship-Development)
 - [Compilers and Interpreters](https://github.com/marcor0311/Compilers-and-Interpreters)
 - [Operations Research](https://github.com/marcor0311/Operations-Research)
 - [Software Quality Assurance](https://github.com/marcor0311/Software-Quality-Assurance)
