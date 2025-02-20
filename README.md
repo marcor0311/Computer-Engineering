@@ -8,6 +8,7 @@ Here you will find a summary of my work and projects throughout the different co
 4. [Semester II 2023](#Semester-II-2023)
 5. [Semester I 2024](#Semester-I-2024)
 6. [Semester II 2024](#Semester-II-2024)
+7. [Semester I 2025](#Semester-I-2025)
 
 
 ## Semester I 2022
@@ -46,6 +47,11 @@ Here you will find a summary of my work and projects throughout the different co
 - [Innovation and Creativity](https://github.com/marcor0311/Innovation-and-Creativity)
 
 ## Semester I 2025 (Upload when semester ends :) )
+
+- [Artificial Intelligence](https://github.com/marcor0311/Artificial-Intelligence)  
+- [Operating Systems Principles](https://github.com/marcor0311/Operating-Systems-Principles)  
+- [Networks](https://github.com/marcor0311/Networks)  
+- [Software Engineering Project](https://github.com/marcor0311/Software-Engineering-Project)  
 
 
 ## LeetCode Solutions
