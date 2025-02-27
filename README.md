@@ -10,6 +10,10 @@ Here you will find a summary of my work and projects throughout the different co
 6. [Semester II 2024](#Semester-II-2024)
 7. [Semester I 2025](#Semester-I-2025)
 
+## Personal Information
+
+If you want to know more about me or some other personal projects you can check out
+- [Main readme](https://github.com/marcor0311)
 
 ## Semester I 2022
 
