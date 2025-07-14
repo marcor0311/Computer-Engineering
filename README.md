@@ -65,6 +65,4 @@ Besides my courses, I also have a repository dedicated to solving LeetCode probl
 
 Feel free to ask any questions
 
-Telegram @marcor0411
-
 Email marco.rodriguezdev@gmail.com
